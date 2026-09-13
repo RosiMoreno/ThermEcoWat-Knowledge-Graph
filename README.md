@@ -1,16 +1,15 @@
-# ThermEcoWat-Knowledge-Graph
-Knowledge Graph platform developed within the European ThermEcoWat project to support collaborative knowledge management and climate change adaptation planning for thermal territories.
+# ThermEcoWat-Knowledge-Graph 
+Development and customization of a Knowledge Graph platform within the ThermEcoWat European Project to support climate change adaptation planning in thermal territories.
 
-The project combines semantic knowledge representation, graph-based navigation, and decision-support functionalities through a customized TiddlyWiki/TiddlyMap environment.
+The project combines TiddlyWiki, TiddlyMap, TypeDB and Python workflows to manage, structure and semantically integrate multidisciplinary knowledge related to thermal water resources, geothermal energy, climate change impacts and decision-support processes.
 
-## My Contributions
+## Main Contributions
 
 - Development of custom TiddlyWiki functionalities.
 - Design and implementation of user-oriented interfaces.
 - Creation of dynamic forms for Knowledge Graph enrichment.
 - Development of node and domain classification workflows.
-- Customization of TiddlyMap visualizations.
-- Configuration of graph views, filters and navigation tools.
+- Development of a prototipe Python scripts for transforming TiddlyWiki JSON data into TypeDB compatible formats.
 - Development of training materials and user documentation.
 - Co-authoring of the ThermEcoWat Knowledge Base implementation guidelines.
 
