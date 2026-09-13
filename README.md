@@ -14,15 +14,3 @@ The project combines semantic knowledge representation, graph-based navigation, 
 - Development of training materials and user documentation.
 - Co-authoring of the ThermEcoWat Knowledge Base implementation guidelines.
 
-## Automated Node Creation Tool
-
-Custom interface developed to simplify the creation of new knowledge graph entities by non-technical users.
-
-Features:
-
-- Title validation
-- Object type selection
-- Domain selection
-- Automatic tagging
-- Automatic node generation
-- Navigation to the created element
